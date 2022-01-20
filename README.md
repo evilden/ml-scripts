@@ -1,2 +1,2 @@
 # ml-scripts
-Some ML code snippets
+Some pieces of ML code
